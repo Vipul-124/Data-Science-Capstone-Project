@@ -35,3 +35,4 @@ if st.button('Predict Car Price') :
     test_data = test_data.reshape([1,8])
 
     st.success(best_model.predict(test_data)[0].round(2))
+    st.success(f"Rs. {best_model.predict(test_data)[0].round(2)}")
