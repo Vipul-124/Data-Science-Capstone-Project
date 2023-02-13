@@ -3,7 +3,7 @@
 A machine learning project that predicts the selling price of second hand cars in the market. This project uses a dataset that includes parameters such as kilometers driven, year, fuel type, owner, seller type, and transmission to make predictions.
 
 ## Requirements
-- Python 3.x
+- Python
 - Pandas
 - Numpy
 - Matplotlib
