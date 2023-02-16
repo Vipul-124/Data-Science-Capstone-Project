@@ -18,7 +18,7 @@ A machine learning project that predicts the selling price of second hand cars i
 2. Install the requirements: pip install -r requirements.txt
   
 ## Usage
-1. Run the streamlit app: streamlit run app.py
+1. Run the streamlit app: streamlit run app_car.py
 2. Use the dropdown menus and input fields to select the car's parameters.
 3. Press the "Predict" button to see the predicted selling price of the car.
   
