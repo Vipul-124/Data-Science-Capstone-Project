@@ -14,7 +14,7 @@ A machine learning project that predicts the selling price of second hand cars i
 
 
 ## Installation
-1. Clone the repository: git clone https://github.com/<username>/Car-Selling-Price-Predictor.git
+1. Clone the repository: git clone https://github.com/Vipul-124/Data-Science-Capstone-Project.git
 2. Install the requirements: pip install -r requirements.txt
   
 ## Usage
